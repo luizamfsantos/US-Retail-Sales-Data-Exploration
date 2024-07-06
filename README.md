@@ -1,5 +1,7 @@
 # US Retail Sales From 1992 until 2022 Data Analysis
-This ongoing project involves the exploration, cleaning, and analysis of data obtained from census.gov. Our primary goal is to uncover trends and insights within the data that can provide valuable information about various demographic aspects.
+* This is an older project which I chose to keep in my Github to showcase my progress in data analysis, data engineering and software development in general.*
+
+This project involves the exploration, cleaning, and analysis of data obtained from census.gov. Our primary goal is to uncover trends and insights within the data that can provide valuable information about various demographic aspects.
 
 ### Project Overview
 
